@@ -1,0 +1,1 @@
+For this project, I created a website featuring an interactive table of UFO sightings data. The data was contained in a javascript file. A second javascript file, app.js, enabled the interactivity of the table. The website was created with an html file, index.html. A css file, style.css, was used to style the website. 
